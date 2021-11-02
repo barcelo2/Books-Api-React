@@ -6,9 +6,10 @@ The project is created with React using Google Books Api. The main task is to cr
 ## Links
 [The idea ](http://preview.themeforest.net/item/book-store-library-online-book-store/full_screen_preview/21369136?clickthrough_id=1420858803&redirect_back=true&ref=Digital_Square)
 
-![Home page]('https://github.com/barcelo2/Books-Api-React/blob/main/src/components/scr1.png')
-![Book´s page]('https://github.com/barcelo2/Books-Api-React/blob/main/src/components/scr2.png')
-![About page]('https://github.com/barcelo2/Books-Api-React/blob/main/src/components/scr3.png')
+![Home page](https://github.com/barcelo2/Books-Api-React/blob/main/src/components/scr1.png "Home page")
+![Book´s page](https://github.com/barcelo2/Books-Api-React/blob/main/src/components/scr2.png "Book´s page")
+![About page](https://github.com/barcelo2/Books-Api-React/blob/main/src/components/scr3.png "About page")
+
 
 ## Available Commands
 
